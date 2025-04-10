@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # Created by Dylan Mutabazi
 # Date :23-02-2025
-# This program holds calculates the surface area and volume of an Octahedron
+# This calculates asks for the size o your burger, if you want fries and drinks, and calculates the total
 
 import sys, time  # allows for the typing effect and delay to how many characters per second
 import math
